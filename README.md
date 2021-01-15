@@ -1,7 +1,7 @@
 ### Hey, Aniket here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-<img src = 'https://github.com/aniketbansal1201/aniketbansal1201/blob/main/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+<img src = 'https://github.com/aniketbansal1201/aniketbansal1201/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Aniket-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniket-bansal-587aa4182/)](https://www.linkedin.com/in/aniket-bansal-587aa4182/) [![Gmail Badge](https://img.shields.io/badge/-aniket1201.cse18@chitkara.edu.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aniket1201.cse18@chitkara.edu.in)](mailto:aniket1201.cse18@chitkara.edu.in) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketbansal1201" alt="aniketbansal1201" /> </p>
