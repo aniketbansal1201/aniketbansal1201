@@ -10,13 +10,9 @@ I'm Aniket Bansal, I'm a third year student pursuing Bachelors's in Computer Sci
 I am a Software developer,web developer & designer.
 
 # 🛠⚙ Favorite Tech
-
 <br>
-
 ## Programming Languages
-<br>
 <table style="margin-bottom:20px;margin-top:20px">
-
   <tr>
     <td align="center" width="96">
       <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="48" height="48"/> </a>
