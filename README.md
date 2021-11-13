@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Aniket-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniket-bansal-587aa4182/)](https://www.linkedin.com/in/aniket-bansal-587aa4182/) [![Gmail Badge](https://img.shields.io/badge/-aniket1201.cse18@chitkara.edu.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aniket1201.cse18@chitkara.edu.in)](mailto:aniket1201.cse18@chitkara.edu.in) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketbansal1201" alt="aniketbansal1201" /> </p>
 
-I'm Aniket Bansal, I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Chitkara University 🏛.<br>
+I'm Aniket Bansal, I'm a third year student pursuing Bachelor's in Computer Science 🎓 from Chitkara University 🏛.<br>
 I am a Software developer,web developer & designer.
 
 # 🛠⚙ Favorite Tech
